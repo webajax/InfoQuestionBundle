@@ -1,0 +1,3 @@
+info_question_homepage:
+    path:     /infoquestion/hello/{name}
+    defaults: { _controller: InfoQuestionBundle:Default:index }
